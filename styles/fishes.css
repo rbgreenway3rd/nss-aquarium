@@ -10,4 +10,5 @@
 
 .fish__image {
     max-height: 10rem;
+    border: 3px ridge rgb(236, 149, 78);
 }

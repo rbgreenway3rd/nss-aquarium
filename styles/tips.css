@@ -1,10 +1,39 @@
+.tips-box {
+    position: relative;
+    float: right;
+    background-color: ivory;
+    margin-left: 5rem;
+    padding: 0 2rem;
+    text-align: left;
+    border: solid black;
+    top: 1rem;
+    bottom: 1rem;
+    float: right;
+
+}
+
+}
+
+aside {
+    position: absolute;
+    right: 0rem;
+    float: right;
+    top: 1rem;
+    bottom: 1rem;
+    float: right;
+    
+}
+
 .tips {
     flex: 1;
     background-color: ivory;
     margin-left: 5rem;
     padding: 0 2rem;
+    text-align: left;
+    border: solid black;
 }
 
 .header--tips {
-    text-align: center;
+    text-align: left;
+    text-decoration: underline;
 } 
