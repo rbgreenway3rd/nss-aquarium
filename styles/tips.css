@@ -9,9 +9,7 @@
     top: 1rem;
     bottom: 1rem;
     float: right;
-
-}
-
+    display: flex;
 }
 
 aside {
@@ -20,8 +18,7 @@ aside {
     float: right;
     top: 1rem;
     bottom: 1rem;
-    float: right;
-    
+    float: right;   
 }
 
 .tips {
@@ -30,10 +27,8 @@ aside {
     margin-left: 5rem;
     padding: 0 2rem;
     text-align: left;
-    border: solid black;
 }
-
-.header--tips {
-    text-align: left;
-    text-decoration: underline;
-} 
+.empty {
+    display: flex;
+    align-content: normal;
+}

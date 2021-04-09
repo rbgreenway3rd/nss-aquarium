@@ -4,14 +4,14 @@
 @import "./quotes.css";
 
 main {
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: contain;
-    background-image: url('https://tse4.mm.bing.net/th?id=OIP.OYiBOazUUQGII2aeyW29cQHaEK&pid=Api&P=0&w=377&h=213')
+    background-image: url('http://www.drodd.com/images14/blue30.png')
 
 }
 
 body {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans';
 
 }
 

@@ -2,10 +2,13 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
 }
 
 .fish {
     flex-basis: 16%;
+    font-family: 'Roboto';
+    font-weight; {10, 20}
 }
 
 .fish__image {
