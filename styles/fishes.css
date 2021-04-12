@@ -2,12 +2,15 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
 }
 
 .fish {
     flex-basis: 16%;
+    font-family: 'Roboto'; 
 }
 
 .fish__image {
     max-height: 10rem;
+    border: 3px ridge rgb(236, 149, 78);
 }
