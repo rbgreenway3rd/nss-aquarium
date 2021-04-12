@@ -7,8 +7,7 @@
 
 .fish {
     flex-basis: 16%;
-    font-family: 'Roboto';
-    font-weight; {10, 20}
+    font-family: 'Roboto'; 
 }
 
 .fish__image {
